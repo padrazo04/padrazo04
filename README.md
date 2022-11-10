@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosfc012/)
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/padrazo04)
+
+- 📫 How to reach me: carlosfc.personal@gmail.com
+
 <!--
 **padrazo04/padrazo04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: carlosfc.personal@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
