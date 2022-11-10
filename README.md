@@ -1,8 +1,8 @@
 ## Hi there 👋🏼 I'm Carlos Freire Caballero
 
-#### I have been curious about computers since I have memory, so I decided to learn how they worked and how could I use them to create marvelous things. Still pursuing this goal today.
+**I have been curious about computers since I have memory, so I decided to learn how they worked and how could I use them to create marvelous things. Still pursuing this goal today.**
 
-#### Interested in almost every IT area, but specially in Game Development, Software Development, IS, AI and Networks.
+**Interested in almost every IT area, but specially in Game Development, Software Development, IS, AI and Networks.**
 
 ---
 📫 You can reach me at carlosfc.personal@gmail.com or on:
@@ -46,7 +46,6 @@
 ---
 
 ![padrazo04's github stats](https://github-readme-stats.vercel.app/api?username=padrazo04&theme=highcontrast&count_private=true&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
