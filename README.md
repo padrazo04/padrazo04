@@ -44,12 +44,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-![padrazo04's github stats](https://github-readme-stats.vercel.app/api?username=padrazo04&theme=vision-friendly-dark&count_private=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padrazo04&layout=compact&theme=vision-friendly-dark)
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
