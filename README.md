@@ -45,8 +45,9 @@
 
 ---
 
-![padrazo04's github stats](https://github-readme-stats.vercel.app/api?username=padrazo04&theme=highcontrast&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+![padrazo04's github stats](https://github-readme-stats.vercel.app/api?username=padrazo04&theme=dark&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padrazo04&layout=compact&theme=dark)
 
 <!--
 - 🔭 I’m currently working on ...
