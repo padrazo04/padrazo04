@@ -5,7 +5,7 @@
 **Interested in almost every IT area, but specially in Game Development, Software Development, IS, AI and Networks.**
 
 ---
-📫 You can reach me at carlosfc.personal@gmail.com or on:
+📫 You can reach me at carlosfc.work@gmail.com or on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosfc012/)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/padrazo04)
